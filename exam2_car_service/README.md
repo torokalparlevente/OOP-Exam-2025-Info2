@@ -35,7 +35,7 @@ You may use an external JSON parser (e.g., Gson ≤ 2.2.x or org.json).
 
 ## Overloading / overriding
 - Provide at least one overloaded constructor and one overloaded method.
-- Override `toString`, `equals`, `hashCode`. Equals must use business key.
+- Override `toString`, `hashCode`. Equals must use business key.
 
 ## Output
 - Print a concise summary to console.
