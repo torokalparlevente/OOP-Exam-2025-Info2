@@ -11,7 +11,7 @@ You may use an external JSON parser (e.g., Gson ≤ 2.2.x or org.json).
    - Inheritance hierarchy with at least two concrete subclasses.
    - Static member used as registry or counter.
    - Method overloading and overriding. Override `toString()`.
-   - Implement `equals(Object)` and `hashCode()` using the business key (document it in comments).
+   - Implement `equals(Object)` using the business key (document it in comments).
    - Use `ArrayList` as primary collection. Sorting via `Comparator`.
 3. I/O:
    - Read `data.json`.
@@ -36,7 +36,7 @@ You may use an external JSON parser (e.g., Gson ≤ 2.2.x or org.json).
 
 ## Overloading / overriding
 - Provide at least one overloaded constructor and one overloaded method.
-- Override `toString`, `equals`, `hashCode`. Equals must use business key.
+- Override `toString`, `hashCode`. Equals must use business key.
 
 ## Output
 - Print a concise summary to console.
