@@ -1,6 +1,6 @@
 # Webshop Order — Java 6 OOP Exam
 
-Time limit: 120 minutes. Java 6. NetBeans. No Java 8 features. No streams. No java.time.
+Time limit: 90 minutes. Java 6. NetBeans. No Java 8 features. No streams. No java.time.
 You may use an external JSON parser (e.g., Gson ≤ 2.2.x or org.json).
 
 ## Mandatory
