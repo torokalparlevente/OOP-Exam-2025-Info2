@@ -1,6 +1,6 @@
 # Warehouse Management — Java 6 OOP Exam (Offline Edition)
 
-**Duration:** 120 minutes  
+**Duration:** 90 minutes  
 **Tools:** NetBeans 8 or earlier, Java 6 SDK only  
 **Internet:** Not allowed  
 **External libraries:** Not allowed (no Gson, Jackson, etc.)  
@@ -17,7 +17,7 @@ Apply the main OOP principles:
 - Inheritance, overriding, overloading  
 - `ArrayList` usage  
 - Static members  
-- File I/O (`FileReader`, `BufferedReader`, `FileWriter`)  
+- File I/O 
 - Proper `toString()` methods  
 
 ---
